@@ -80,7 +80,7 @@ overflow: hidden;
  .profile-page .avatar-box {
  width: 300px;
  }
- @media (width < 768px) {
+ @media (width > 768px) {
    .profile-page .avatar-box {
    border-right: 1px solid #eee;
    }
